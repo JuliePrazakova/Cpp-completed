@@ -1,0 +1,15 @@
+# ninja log v5
+0	48	1666464528273857969	build.ninja	c42044dec30f905b
+1	234	1666464312159381895	CMakeFiles/CPP_cviceni6_obchod.dir/main.cpp.o	f24b2de29286155a
+3	328	1666464282617751085	CMakeFiles/CPP_cviceni6_obchod.dir/Store.cpp.o	41464adc3373621d
+3	378	1666439708414900067	CMakeFiles/CPP_cviceni6_obchod.dir/TestSuite/Suite.cpp.o	e20ae64a320e62a6
+234	259	1666464312186332952	CPP_cviceni6_obchod	c3c69a3955671271
+2	251	1666464023921286776	CMakeFiles/CPP_cviceni6_obchod.dir/StoreTest.cpp.o	54ebb76dcb7d5f90
+2	361	1666439708396617683	CMakeFiles/CPP_cviceni6_obchod.dir/MapTest.cpp.o	31248928c7a16e01
+2	399	1666439708435797012	CMakeFiles/CPP_cviceni6_obchod.dir/TestSuite/Test.cpp.o	864ed3d8b914e7e9
+3	234	1666464569943003078	CMakeFiles/CPP_cviceni6_obchod.dir/TestSuite/Test.cpp.o	864ed3d8b914e7e9
+2	273	1666464569982762991	CMakeFiles/CPP_cviceni6_obchod.dir/main.cpp.o	f24b2de29286155a
+3	281	1666464569992303470	CMakeFiles/CPP_cviceni6_obchod.dir/TestSuite/Suite.cpp.o	e20ae64a320e62a6
+3	290	1666464570000944867	CMakeFiles/CPP_cviceni6_obchod.dir/StoreTest.cpp.o	54ebb76dcb7d5f90
+2	369	1666464570080036319	CMakeFiles/CPP_cviceni6_obchod.dir/Store.cpp.o	41464adc3373621d
+369	394	1666464570106390720	CPP_cviceni6_obchod	c3c69a3955671271

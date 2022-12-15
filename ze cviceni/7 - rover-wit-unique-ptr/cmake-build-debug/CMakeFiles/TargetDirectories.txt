@@ -1,0 +1,3 @@
+/home/ivo/teach-git/pcp/07-advanced_oop/complete/cmake-build-debug/CMakeFiles/complete.dir
+/home/ivo/teach-git/pcp/07-advanced_oop/complete/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivo/teach-git/pcp/07-advanced_oop/complete/cmake-build-debug/CMakeFiles/rebuild_cache.dir
