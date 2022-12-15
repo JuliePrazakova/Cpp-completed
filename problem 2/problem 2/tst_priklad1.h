@@ -1,8 +1,8 @@
 #ifndef TST_PRIKLAD1_H
 #define TST_PRIKLAD1_H
 
-#include "TestSuite/Suite.h"
-#include "TestSuite/Test.h"
+#include "Suite.h"
+#include "Test.h"
 #include "priklad1.h"
 
 /// Testy: 10 b

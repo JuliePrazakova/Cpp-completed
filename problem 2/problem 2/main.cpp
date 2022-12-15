@@ -6,6 +6,9 @@
 //
 
 #include <iostream>
+#include <string>
+#include <iostream>
+#include <cassert>
 
 #include "priklad1.h"
 #include "priklad2.h"
