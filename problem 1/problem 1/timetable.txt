@@ -1,0 +1,5 @@
+ID           	 |0     	|1     	|2     	
+name         	 |timiassa     	|hot yoga     	|tabata     	
+content      	 |blablabla     	|hihih     	|nonono     	
+duration [h]  	|1     	|1     	|1     	
+participants 	 |0     	|0     	|0     	
